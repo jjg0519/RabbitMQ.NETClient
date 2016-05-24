@@ -1,0 +1,7 @@
+D:\Project\RabbitMQ.NETClient\RabbitMQ.NETClient.Tool\bin\Debug\RabbitMQ.NETClient.Tool.dll
+D:\Project\RabbitMQ.NETClient\RabbitMQ.NETClient.Tool\bin\Debug\RabbitMQ.NETClient.Tool.pdb
+D:\Project\RabbitMQ.NETClient\RabbitMQ.NETClient.Tool\bin\Debug\RabbitMQ.Client.dll
+D:\Project\RabbitMQ.NETClient\RabbitMQ.NETClient.Tool\bin\Debug\RabbitMQ.Client.xml
+D:\Project\RabbitMQ.NETClient\RabbitMQ.NETClient.Tool\obj\Debug\RabbitMQ.NETClient.Tool.dll
+D:\Project\RabbitMQ.NETClient\RabbitMQ.NETClient.Tool\obj\Debug\RabbitMQ.NETClient.Tool.pdb
+D:\Project\RabbitMQ.NETClient\RabbitMQ.NETClient.Tool\obj\Debug\RabbitMQ.NETClient.Tool.csprojResolveAssemblyReference.cache

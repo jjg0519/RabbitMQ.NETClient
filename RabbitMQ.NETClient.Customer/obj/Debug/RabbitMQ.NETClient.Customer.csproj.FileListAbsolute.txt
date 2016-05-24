@@ -1,0 +1,10 @@
+D:\Project\RabbitMQ.NETClient\RabbitMQ.NETClient.Customer\bin\Debug\RabbitMQ.NETClient.Customer.exe.config
+D:\Project\RabbitMQ.NETClient\RabbitMQ.NETClient.Customer\bin\Debug\RabbitMQ.NETClient.Customer.exe
+D:\Project\RabbitMQ.NETClient\RabbitMQ.NETClient.Customer\bin\Debug\RabbitMQ.NETClient.Customer.pdb
+D:\Project\RabbitMQ.NETClient\RabbitMQ.NETClient.Customer\bin\Debug\RabbitMQ.NETClient.Tool.dll
+D:\Project\RabbitMQ.NETClient\RabbitMQ.NETClient.Customer\bin\Debug\RabbitMQ.Client.dll
+D:\Project\RabbitMQ.NETClient\RabbitMQ.NETClient.Customer\bin\Debug\RabbitMQ.NETClient.Tool.pdb
+D:\Project\RabbitMQ.NETClient\RabbitMQ.NETClient.Customer\bin\Debug\RabbitMQ.Client.xml
+D:\Project\RabbitMQ.NETClient\RabbitMQ.NETClient.Customer\obj\Debug\RabbitMQ.NETClient.Customer.csprojResolveAssemblyReference.cache
+D:\Project\RabbitMQ.NETClient\RabbitMQ.NETClient.Customer\obj\Debug\RabbitMQ.NETClient.Customer.exe
+D:\Project\RabbitMQ.NETClient\RabbitMQ.NETClient.Customer\obj\Debug\RabbitMQ.NETClient.Customer.pdb
